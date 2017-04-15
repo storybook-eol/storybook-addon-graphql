@@ -2,6 +2,12 @@
 
 The GraphiQL addon can be used to display the GraphiQL IDE with example queries. This addon works with [React Storybook](https://github.com/kadirahq/react-storybook).
 
+--- 
+
+**This repo has been deprecated because it's now included in https://github.com/storybooks/storybook**
+
+---
+
 ![](docs/screenshot.png)
 
 ## Getting Started
